@@ -50,6 +50,10 @@ After initial tests using the web based text mining tool Voyant, I wanted to cre
 
 Below this header material in the Python file are three categories of tags: general, geographic and custom, which contain twenty subsections each and these subsections contain 50 associated words or phrases that are being identified throughout the combined corpus and ultimately tallied to produce the output shown here:
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
 {% include gallery-figure.html img="dl_03.png" alt=" List of tags with their associated words tallied in descending order." caption="Example of Text Mining Tool Output for the Rural Women's History Project" width="100%" %}
 
 See [Appendix 1](https://aweymo-ui.github.io/distant_seven/content/5_references_apendices.html#appendix-1-excerpt-of-python-text-mining-tool) for an excerpt of the this script or visit [the Git](https://github.com/Scholarly-Projects/transcript_mining_base){:target="_blank" rel="noopener"} to view in full.
