@@ -4,33 +4,20 @@ nav: References and Appendices
 gallery: true
 ---
 
-{% include feature/nav-menu.html sections="References;Notes;Appendices;Appendix 1. Excerpt of Python Text Mining Tool;Appendix 2. Apps Script Example for Linking Transcript to Primary Tag Sheet;About the Author" %}
+{% include feature/nav-menu.html sections="Notes;Appendix 1. Excerpt of Python Text Mining Tool;Appendix 2. Apps Script Example for Linking Transcript to Primary Tag Sheet;About the Author" %}
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
 </div>
 
-## References
-
-Link J. Why Racial Bias Still Haunts Speech-Recognition AI. Built In; 2020 [cited 2024 Jul 8]. Available from: https://builtin.com/artificial-intelligence/racial-bias-speech-recognition-systems
-
-Freund A. From.wav to.txt: why we still need transcripts in the digital age. Internet. 2024. [cited 2024 Jul 8].
-
-Allen SE. Resisting the editorial ego: editing oral history. Oral Hist Rev. 1982;10(1):33-45. DOI 10.1093/ohr/10.1.33. [cited 2024 Jul 8]. Available from: https://www.tandfonline.com/doi/full/10.1093/ohr/10.1.33
-
 ## Notes
 
-[1] Digital Collections, University of Idaho. University of Idaho Library Digital Initiatives; 2024 [cited 2024 Jul 8]. Available from: https://www.lib.uidaho.edu/digital/collections.html
+[1] Speech to Text in Premiere Pro FAQ. Adobe; [cited 2024 Jul 8]. Available from: https://helpx.adobe.com/content/help/en/premiere-pro/using/speech-to-text-faq.html
 
-[2] Speech to Text in Premiere Pro FAQ. Adobe; [cited 2024 Jul 8]. Available from: https://helpx.adobe.com/content/help/en/premiere-pro/using/speech-to-text-faq.html
+[2] Matt Miller. “Lomax Whisper,” September 12, 2024. https://thisismattmiller.com/post/lomax-whisper/
 
-[3] Matt Miller. “Lomax Whisper,” September 12, 2024. https://thisismattmiller.com/post/lomax-whisper/.
 
-[4] Department of Commerce and Labor, Bureau of Statistics. Thirteenth Census of the United States: 1910. Statistics for Idaho. Washington (DC): Government Printing Office; 1913. [cited 2024 Jul 8]. Available from: https://www2.census.gov/library/publications/decennial/1910/abstract/statistics-for-idaho.pdf
-
-## Appendices
-
-#### Appendix 1. Excerpt of Python Text Mining Tool
+## Appendix 1. Excerpt of Python Text Mining Tool
 
 ```
 import pandas as pd
@@ -151,7 +138,7 @@ for word, count in top_agriculture_terms:
     print(f"{word.capitalize()}: {count}")
 ```
 
-#### Appendix 2. Apps Script Example for Linking Transcript to Primary Tag Sheet
+## Appendix 2. Apps Script Example for Linking Transcript to Primary Tag Sheet
 
 ```
 function fillTags() {

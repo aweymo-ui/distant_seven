@@ -13,7 +13,7 @@ gallery: true
 
 ## Overview
 
-This presentation will provide a walkthrough of new processes for creating subject tags across complete oral history collections developed at the U of I Center for Digital Inquiry and Learning over the summer of 2024. It outlines a workflow that empowers student workers to run, modify, and expand these tags during the copyediting process. The goal is to produce richer, more accurate tagging, allowing researchers to more easily identify connections across collections. This presentation will provide a detailed description of the workflow, explore the challenges it addresses, share pedagogical experiences of transcribers, and examine the limitations of data-driven, human-edited automated tagging.
+This presentation will provide a walkthrough of new processes for creating subject tags across complete oral history collections developed at the U of I Center for Digital Inquiry and Learning over the summer of 2024. It details a workflow enabling student workers to run, modify, and expand tags during copyediting, aiming to enhance accuracy and ultimately help researchers identify connections between recordings. We'll cover the workflow, challenges it addresses and the limitations of data-driven, human-edited tagging.
 
 {% include toc.html %}
 
