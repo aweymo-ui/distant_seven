@@ -10,5 +10,3 @@ Regarding the limitations of data-driven, human-edited tagging, program managers
 
 My hope is that utilizing machine learning, Python, and JavaScript approaches will make digitizing these resources more efficient and accessible, promoting their preservation and availability to the public.
 
-Thank you for your time
-
